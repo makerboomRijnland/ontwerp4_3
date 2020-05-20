@@ -2,6 +2,7 @@ body {
     margin: 0;
 }
 
+
 main {
     margin: 0 auto;
     max-width: 1200px;
@@ -30,7 +31,6 @@ header nav a {
     float: right;
 }
 
-main nav a {}
 
 main img.right {
     width: 50%;
